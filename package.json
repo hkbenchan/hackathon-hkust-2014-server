@@ -1,0 +1,32 @@
+{
+  "name": "hackathon-hkust-2014-server",
+  "version": "0.0.1",
+  "description": "hackathon-hkust-2014-server ===========================",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ustbenchan/hackathon-hkust-2014-server.git"
+  },
+  "author": "Ben Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ustbenchan/hackathon-hkust-2014-server/issues"
+  },
+  "homepage": "https://github.com/ustbenchan/hackathon-hkust-2014-server",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "async": "*",
+    "request": "*",
+    "mysql": "*",
+    "validator": "*",
+    "connect": "*",
+    "mongo": "*",
+    "mongoose": "*",
+    "node-gcm-service": "*"
+  }
+}
