@@ -10,6 +10,7 @@ exports.app = {
 };
 
 exports.db = {
+    // url: 'mongodb://admin:aBy-ayLkYrZw@127.12.71.2:27017/dropit',
     url: 'mongodb://drop_master:qwerty123@localhost:27017/dropit',
     opts: {}
 };

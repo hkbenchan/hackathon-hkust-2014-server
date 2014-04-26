@@ -27,6 +27,7 @@
     "connect": "*",
     "mongo": "*",
     "mongoose": "*",
-    "node-gcm-service": "*"
+    "node-gcm-service": "*",
+    "hashids": "*"
   }
 }
